@@ -12,9 +12,10 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    API_KEY = "YOUR BOT TOKEN HERE"
-    OWNER_ID = "YOUR OWN ID HERE"  # If you dont know, run the bot and do /id in your private chat with it
-    OWNER_USERNAME = "YOUR USERNAME HERE"
+    API_KEY = "5811381573:AAHpKTV8Vk5DZCF3uRv6A6yK3TBS-sqUJC8"
+    OWNER_ID = "5803455919"  # If you dont know, run the bot and do /id in your private chat with it
+    OWNER_USERNAME = "@xzoup
+    "
     TELETHON_HASH = None  # for purge stuffs
     TELETHON_ID = None
     
